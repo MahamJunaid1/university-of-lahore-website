@@ -46,4 +46,13 @@ This is an independent educational project, not an official university service o
 - `campus.jpg`: https://uol.edu.pk/wp-content/uploads/2025/05/DSC00637-Final-1.jpg
 - `student-life.jpg`: https://uol.edu.pk/wp-content/uploads/2025/05/DSC00232-Copy-copy.jpg
 
-University photography belongs to its respective owners and is included for this educational demonstration. The UOL text monogram is a project design, not the official university logo. The Mandela quotation is an attributed quotation, not a university testimonial.
+University photography belongs to its respective owners and is included for this educational demonstration. The header and footer use the unchanged official green university logo downloaded from its public logo library. The Mandela quotation is an attributed quotation, not a university testimonial.
+
+
+## Official university logo
+
+- Logo library: https://uol.edu.pk/logos/
+- Original asset: https://uol.edu.pk/wp-content/uploads/2025/12/UOL-Green-V1.png
+- Local asset: `uol-official-logo.png`
+
+The original image is retained without cropping, recolouring or reconstruction. CSS scales it proportionally for desktop and mobile. The logo belongs to The University of Lahore; its inclusion does not make this student project an official or affiliated university service.
